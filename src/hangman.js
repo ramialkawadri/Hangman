@@ -62,3 +62,4 @@ class Hangman {
     return message;
   }
 }
+export default Hangman;
